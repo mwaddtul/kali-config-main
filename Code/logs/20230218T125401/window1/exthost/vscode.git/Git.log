@@ -1,0 +1,100 @@
+2023-02-18 12:54:05.714 [info] Log level: Info
+2023-02-18 12:54:05.714 [info] Validating found git in: "git"
+2023-02-18 12:54:05.714 [info] Using git "2.35.1" from "git"
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [20ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [11ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [19ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [13ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [9ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [57ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [26ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [8ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:05.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.714 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-18 12:54:05.715 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.720 [info] > git rev-parse --show-toplevel [7ms]
+2023-02-18 12:54:05.720 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.739 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-18 12:54:05.739 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.756 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:05.757 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.933 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-18 12:54:05.933 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:05.998 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-18 12:54:05.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:06.352 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:06.352 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:06.484 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:06.484 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:06.573 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-18 12:54:06.574 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:06.928 [info] > git rev-parse --show-toplevel [15ms]
+2023-02-18 12:54:06.928 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:15.028 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:15.028 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:50.505 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 12:54:50.505 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:54:51.309 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-18 12:54:51.310 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:55:00.076 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-18 12:55:00.076 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:58:01.315 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-18 12:58:01.315 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:58:02.124 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-18 12:58:02.124 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 12:58:07.476 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-18 12:58:07.476 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 13:14:50.192 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-18 13:14:50.192 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 13:20:12.570 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-18 13:20:12.583 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-02-18 13:20:12.607 [info] Open repository: /home/fiq/.config/networkmanager-dmenu
+2023-02-18 13:20:12.642 [info] > git config --get commit.template [15ms]
+2023-02-18 13:20:12.644 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-02-18 13:20:12.676 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-18 13:20:12.685 [info] > git status -z -uall [29ms]
+2023-02-18 13:20:12.727 [info] > git config --get commit.template [1ms]
+2023-02-18 13:20:12.750 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-02-18 13:20:12.785 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2023-02-18 13:20:12.824 [info] > git status -z -uall [62ms]
+2023-02-18 13:20:13.070 [info] > git show --textconv :config.ini.example [24ms]
+2023-02-18 13:20:13.081 [info] > git ls-files --stage -- /home/fiq/.config/networkmanager-dmenu/config.ini.example [12ms]
+2023-02-18 13:20:13.106 [info] > git cat-file -s 54cde73974c09e4edf748db4869c40abd4e4ff0a [9ms]
+2023-02-18 13:20:13.256 [info] > git check-ignore -v -z --stdin [7ms]
+2023-02-18 13:20:17.081 [info] > git show --textconv :networkmanager_dmenu [19ms]
+2023-02-18 13:20:17.083 [info] > git ls-files --stage -- /home/fiq/.config/networkmanager-dmenu/networkmanager_dmenu [4ms]
+2023-02-18 13:20:17.103 [info] > git cat-file -s 137c9684b629e60e8b713bfb14f4060ac45a5296 [5ms]
+2023-02-18 13:20:19.425 [info] > git show --textconv :networkmanager_dmenu.desktop [4ms]
+2023-02-18 13:20:19.453 [info] > git ls-files --stage -- /home/fiq/.config/networkmanager-dmenu/networkmanager_dmenu.desktop [6ms]
+2023-02-18 13:20:19.469 [info] > git cat-file -s d62851ad79f7cc61d4d872291440fb99a853d1fb [4ms]
+2023-02-18 13:20:27.192 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-18 13:20:27.192 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-18 13:20:53.120 [info] > git config --get commit.template [13ms]
+2023-02-18 13:20:53.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-02-18 13:20:53.145 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-18 13:20:53.183 [info] > git status -z -uall [50ms]
+2023-02-18 13:23:35.888 [warning] ENOENT: no such file or directory, open '/home/fiq/.config/networkmanager-dmenu/.git/HEAD'
+2023-02-18 13:23:35.926 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/fiq/.config/networkmanager-dmenu/.git/config'
+2023-02-18 13:23:35.972 [warning] ENOENT: no such file or directory, open '/home/fiq/.config/networkmanager-dmenu/.git/HEAD'
+2023-02-18 13:23:35.998 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/fiq/.config/networkmanager-dmenu/.git/config'
